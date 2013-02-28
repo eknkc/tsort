@@ -1,0 +1,19 @@
+{
+  "name": "tsort",
+  "version": "0.0.1",
+  "description": "Topological sort on directed graphs.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eknkc/tsort.git"
+  },
+  "keywords": [
+    "dependency",
+    "graph",
+    "topological",
+    "sort",
+    "graph"
+  ],
+  "author": "Ekin Koc",
+  "license": "MIT"
+}
