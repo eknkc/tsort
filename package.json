@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Topological sort on directed graphs.",
   "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:eknkc/tsort.git"
@@ -14,6 +17,9 @@
     "sort",
     "graph"
   ],
+  "devDependencies": {
+    "mocha": "*"
+  },
   "author": "Ekin Koc",
   "license": "MIT"
 }
